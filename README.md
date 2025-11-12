@@ -227,8 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Report Issues
 Found a bug or have a feature request?
-- Open an issue: [GitHub Issues](https://github.com/yourusername/sg-flood-map/issues)
-- Email: your.email@example.com
+- Raise an Issue
 
 ---
 
